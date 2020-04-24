@@ -19,4 +19,4 @@ Please refer to [this](https://youtu.be/Wmlp68KuTkI) demo video
 * Simulating same problem in different types of environments (non-observable, partially observable, stochastic, non-stochastic)
 
 ## Additional Resources
-The AAIR lab  at ASU has various projects posted on their github page. Please check them out [here](https://github.com/AAIR-lab/planning)
+The AAIR lab  at ASU has various projects posted on their github page. Please check them out [here](https://github.com/AAIR-lab)
