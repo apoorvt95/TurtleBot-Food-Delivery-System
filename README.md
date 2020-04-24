@@ -11,12 +11,12 @@ This system simulates a TurtleBot in Gazebo environment. It simulates a robot wh
 6) Run astar.py. This script tries to find a plan for the turtlebot. If it finds plans, it sends navigation commands to the turtlebot using pid controller.
 7) If a plan is generated, the turtle will start moving to the requirement location.
 
-## DEMO
-Please refer to this short [demo video](https://youtu.be/Wmlp68KuTkI)
+## Demo
+Please refer to [this](https://youtu.be/Wmlp68KuTkI) demo video
 
 ## Future work
 * Adding obstacles
 * Simulating same problem in different types of environments (non-observable, partially observable, stochastic, non-stochastic)
 
-## Resources
-The AAIR lab has various projects posted on their github. Check those [out](https://github.com/AAIR-lab/planning)
+## Additional Resources
+The AAIR lab  at ASU has various projects posted on their github page. Please check them out [here](https://github.com/AAIR-lab/planning)
