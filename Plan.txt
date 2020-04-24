@@ -1,0 +1,14 @@
+
+The below is to track what all we need to do in more detail.
+
+Add anything missing in the below list as required. Also update with 'done' whenever you finish something.
+
+Tasks:
+* Define required messages and srv files - done, add anything further as required
+* Implement server.py - required functions: isGoalState - done, getSuccessors - done, add other functions as required.
+* Code for environment creation
+* Code for astar
+* Write helper.py
+* Designing the environment
+* Get move_tbot3.py also to work with our project.
+

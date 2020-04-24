@@ -1,0 +1,5 @@
+State currState
+---
+State[] succStates
+float64[] costs
+string[] actions
